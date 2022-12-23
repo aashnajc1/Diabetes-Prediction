@@ -9,7 +9,8 @@ This model was made using two algorithms:
 2) Support Vector Machine 
 
 The model was evaluated using two metrics:
+
 1)Accuracy score 
-2)F1 score
+<br>2)F1 score
 
 The accuracy score and the F1 score of both the algorithms is compared.
