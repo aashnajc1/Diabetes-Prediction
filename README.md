@@ -8,9 +8,8 @@ This model was made using two algorithms:
 1) Logistic Regression
 2) Support Vector Machine 
 
-The model was evaluated using two metrics:
-
-1)Accuracy score 
-<br>2)F1 score
+The model was evaluated useing two performance metrics:
+1) Accuracy Score
+2) F1 Score
 
 The accuracy score and the F1 score of both the algorithms is compared.
